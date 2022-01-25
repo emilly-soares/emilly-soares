@@ -1,4 +1,4 @@
-- 👋 Welcome to my Profile! Hi, I’m @EmillySoares03
+- 👋 Welcome to my Profile! Hi, I’m @emilly-soares
 - 🌱 I’m currently learning <br/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
 - 📫 How to reach me <br/> <div> 
 <a href="https://www.linkedin.com/in/emilly-soares-santos-0456931b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30" ></a>
