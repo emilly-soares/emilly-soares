@@ -4,7 +4,7 @@
 - 📫 How to reach me <br/> 
 <div> 
   <a href="https://www.linkedin.com/in/emilly-soares-santos-0456931b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="30" ></a>
-  <a href = "mailto:emilly.santos@estudante.ifms.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:soaressantosemilly05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.instagram.com/emilly.soaressantos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
